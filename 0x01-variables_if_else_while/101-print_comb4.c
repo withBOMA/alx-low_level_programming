@@ -35,7 +35,7 @@ int main(void)
 					putchar('0' + e);
 					putchar('0' + d);
 					putchar('0' + c);
-					
+
 					if (c + d + e != 9 + 8 + 7)
 					{
 						putchar(',');
