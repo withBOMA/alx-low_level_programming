@@ -27,7 +27,7 @@ int main(void)
 		while (c < 10)
 		{
 			if (d != c && d < c)
-			{		
+			{
 				putchar('0' + d);
 				putchar('0' + c);
 
