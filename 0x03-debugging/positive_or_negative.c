@@ -5,7 +5,7 @@
  * and if it is positive, negative, or zero
  * Return: 0
  */
-void (positive_or_negative);
+void (positive_or_negative.c)
 {
 	positive_or_negative(int i);
 	if (i > 0)
