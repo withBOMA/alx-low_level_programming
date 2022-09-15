@@ -5,7 +5,7 @@
  * and if it is positive, negative, or zero
  * Return: 0
  */
-void positive_or_negative(int i)
+void positive_or_negative(i)
 {
 	if (i > 0)
 		printf("%d is positive\n", i);
