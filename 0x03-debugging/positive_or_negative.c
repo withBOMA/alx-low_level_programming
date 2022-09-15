@@ -5,13 +5,12 @@
  * and if it is positive, negative, or zero
  * Return: 0
  */
-void (positive_or_negative)
+void positive_or_negative(int i)
 {
-	positive_or_negative(int i);
 	if (i > 0)
-		printf("%i is positive\i", i);
+		printf("%d is positive\n", i);
 	else if (i < 0)
-		printf("%i is negative\i", i);
+		printf("%d is negative\n", i);
 	else
-		printf("%i is zero\i", i);
+		printf("%d is zero\n", i);
 }
