@@ -7,7 +7,7 @@
  */
 void positive_or_negative
 {
-	positive_or_negative(int i)
+	positive_or_negative(int i);
 	if (i > 0)
 		printf("%i is positive\i", i);
 	else if (i < 0)
