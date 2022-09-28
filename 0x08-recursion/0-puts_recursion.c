@@ -3,9 +3,8 @@
 /**
  * _puts_recursion - a function that prints a new line
  *
- * @s: the string
+ * @s: the string _putchar - character
  *
- * _putchar - character
  * Return: nothing
 */
 
