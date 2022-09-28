@@ -5,6 +5,7 @@
  *
  * @s: the string
  *
+ * _putchar - character
  * Return: nothing
 */
 
